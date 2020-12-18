@@ -1,0 +1,107 @@
+extends: airbnb-base
+plugins:
+  - import
+parser:
+  babel-eslint
+rules:
+  indent:
+    - error
+    - 4
+  linebreak-style:
+    - off
+  no-param-reassign:
+    - 0
+  object-curly-newline:
+    - error
+    - consistent: true
+  import/prefer-default-export:
+    - off
+  no-underscore-dangle:
+    - off
+  no-confusing-arrow:
+    - off
+  camelcase:
+    - off
+  operator-linebreak:
+    - error
+    - after
+    - overrides:
+        "?": before
+        ":": before
+        "&&": before
+        "||": before
+        "+": before
+        "===": before
+        "==": before
+        "!==": before
+        "!=": before
+  no-restricted-syntax:
+    - error
+    - ForInStatement
+    - WithStatement
+  no-nested-ternary: off
+  no-unused-expressions:
+    - error
+    - allowShortCircuit: true
+      allowTernary: true
+  no-use-before-define: off
+  no-plusplus: off
+  no-return-assign:
+      - error
+      - except-parens
+  no-labels:
+      - error
+      - allowLoop: true
+  import/no-extraneous-dependencies:
+    - warn
+    - devDependencies:
+        - "e2e/**/*.js"
+        - "**/__tests__/*.js"
+        - "jest.setup.js"
+        - "jest.setup.e2e.js"
+        - "webpack.config.js"
+  max-classes-per-file:
+    - error
+    - 15
+  implicit-arrow-linebreak:
+    - off
+  arrow-parens:
+    - error
+    - as-needed
+  comma-dangle:
+    - error
+    - never
+globals:
+  riot: true
+  opts: true
+  $: true
+  window: true
+  document: true
+  Tour: true
+  ResizeObserver: true
+  Event: true
+  XMLHttpRequest: true
+  HTMLElement: true
+  Node: true
+  localStorage: true
+  WebSocket: true
+  toastr: true
+  history: true
+  DEBUG: true
+  describe: true
+  it: true
+  beforeAll: true
+  afterAll: true
+  expect: true
+  beforeEach: true
+  afterEach: true
+  jasmine: true
+  spyOn: true
+  jest: true
+  StripeCheckout: true
+  CustomEvent: true
+  RouterSettings: true
+  TagNames: true
+  isNaN: true
+settings:
+  import/resolver: webpack

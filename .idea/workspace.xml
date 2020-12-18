@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdd6ea56-e1fa-4f3b-9a8a-32fcf240d1eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1loIo643aKdYqfaERtbyxNGb4Q2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdd6ea56-e1fa-4f3b-9a8a-32fcf240d1eb" name="Default Changelist" comment="" />
+      <created>1608257188625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608257188625</updated>
+      <workItem from="1608257189644" duration="1870000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="770" y="406" width="659" height="526" key="#ESLint" timestamp="1608257709140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="770" y="406" width="659" height="526" key="#ESLint/0.0.1920.1040@0.0.1920.1040" timestamp="1608257709140" />
+    <state x="421" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608257526704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="421" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608257526704" />
+    <state x="747" y="235" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1608257390713">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="747" y="235" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608257390713" />
+    <state x="635" y="308" key="EditFileWatcherDialog" timestamp="1608257391317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="635" y="308" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608257391317" />
+    <state x="468" y="174" key="SettingsEditor" timestamp="1608257690688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="468" y="174" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608257690688" />
+  </component>
+</project>
